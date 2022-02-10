@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikaskoppoju
-- 👀 I’m interested in web development 
+- 👀 I’m interested in python
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me koppojuvikaskumar@gmail.com
