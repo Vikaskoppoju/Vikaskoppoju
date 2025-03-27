@@ -33,5 +33,3 @@ Here are some of the technologies I work with:
 - Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter)
 
 
-```markdown
-Fun Fact: I'm a certified scuba diver and love exploring underwater worlds!
