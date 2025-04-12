@@ -15,6 +15,7 @@ Here are some of the technologies I work with:
 
 - 💻 Django
 - ⚛️ React
+- ![image](https://github.com/user-attachments/assets/658a68d1-1c63-442f-904b-3ad2936f728a) Power BI
 - 🌐 HTML, CSS, JavaScript
 - 🚀 [Add other technologies you work with]
 
@@ -27,9 +28,8 @@ Here are some of the technologies I work with:
 
 📫 Feel free to reach out and connect with me:
 
-- Email: koppojuvikaskumar@gmail.com(mailto:koppojuvikaskumar@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Portfolio: [Your Portfolio Website](https://www.your-portfolio.com/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter)
+- Email: [koppojuvikaskumar@gmail.com](mailto:koppojuvikaskumar@gmail.com)
+- LinkedIn: [linkedin.com/in/vikas-kumar-koppoju-99b540208](https://www.linkedin.com/in/vikas-kumar-koppoju-99b540208/)
+- Portfolio: [My Portfolio Website](https://vikaskoppoju.vercel.app/)
 
 
