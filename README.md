@@ -27,7 +27,7 @@ Here are some of the technologies I work with:
 
 📫 Feel free to reach out and connect with me:
 
-- Email: [Your Email Address](mailto:koppojuvikaskumar@gmail.com)
+- Email: koppojuvikaskumar@gmail.com(mailto:koppojuvikaskumar@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 - Portfolio: [Your Portfolio Website](https://www.your-portfolio.com/)
 - Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter)
