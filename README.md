@@ -15,7 +15,7 @@ Here are some of the technologies I work with:
 
 - 💻 Django
 - ⚛️ React
-- ![image](https://github.com/user-attachments/assets/658a68d1-1c63-442f-904b-3ad2936f728a) Power BI
+- 🚀 Power BI
 - 🌐 HTML, CSS, JavaScript
 - 🚀 [Add other technologies you work with]
 
