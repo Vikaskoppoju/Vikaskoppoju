@@ -1,6 +1,6 @@
 # Hi, I'm Vikas Kumar Koppoju 👋
 
-I'm a passionate web developer with a focus on Django and React. 🚀
+I'm a passionate web developer and Data with a focus on Django and React. 🚀
 
 ## About Me
 
