@@ -17,7 +17,6 @@ Here are some of the technologies I work with:
 - ⚛️ React
 - 🚀 Power BI
 - 🌐 HTML, CSS, JavaScript
-- 🚀 PowerBI
 
 ## My GitHub Stats
 
